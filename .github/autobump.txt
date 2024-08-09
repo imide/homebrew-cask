@@ -277,6 +277,7 @@ font-iosevka-ss15
 font-iosevka-ss16
 font-iosevka-ss17
 font-iosevka-ss18
+font-lxgw-neozhisong
 font-sarasa-gothic
 fork
 forkgram-telegram
@@ -372,12 +373,14 @@ jupyterlab
 juxtacode
 kaleidoscope
 kdenlive
+kdrive
 keyboard-cowboy
 keyman
 keymapp
 keysafe
 kindle-previewer
 kitty
+kiwi-for-gmail
 kkbox
 krisp
 lagrange
@@ -430,6 +433,7 @@ memory-cleaner
 mendeley-reference-manager
 messenger
 metasploit
+mi
 mi@beta
 microblog
 microsoft-auto-update
@@ -589,6 +593,7 @@ prepros
 prezi-video
 pritunl
 private-internet-access
+propresenter@beta
 proton-drive
 proton-mail
 proton-pass
@@ -641,6 +646,8 @@ rio
 rippling
 rive
 roblox
+robloxstudio
+rocket-typist
 rode-central
 rotki
 royal-tsx
